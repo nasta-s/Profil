@@ -1,6 +1,5 @@
 ---
 title: "Portfolio"
 date: 2026-02-05
-https://nasta-s.github.io/_posts/Portfolio.pdf
 ---
-https://nasta-s.github.io/_posts/Portfolio.pdf
+https://github.com/nasta-s/Profil/blob/main/_posts/Portfolio.pdf
