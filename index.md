@@ -1,3 +1,3 @@
 ---
-title: Profil von Nastassia Sysoyeva
+title: Nastassia Sysoyeva
 ---
